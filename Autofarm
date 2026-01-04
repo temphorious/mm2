@@ -1,0 +1,9 @@
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/temphorious/V/refs/heads/main/Atfm"))()
+end)
+
+task.wait(0.67)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/5k32xL08vd/0", true))()
+end)
